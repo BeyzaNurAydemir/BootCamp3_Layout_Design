@@ -5,13 +5,13 @@ There are three screen designs in my project. You can view the screenshots below
 <table>
 <tr>
   <td>
-<img src="https://github.com/beyzaaydemir/BootCamp3_Layout_Design/blob/master/MainActivity.png"  width="250" height="500">
+<img src="https://github.com/beyzaaydemir/BootCamp3_Layout_Design/blob/master/MainActivity.png"  >
     </td>
  <td>     
-<img src="https://github.com/beyzaaydemir/BootCamp3_Layout_Design/blob/master/StartActivity.png"  width="250" height="500">
+<img src="https://github.com/beyzaaydemir/BootCamp3_Layout_Design/blob/master/StartActivity.png" >
   </td>
   <td>
-    <img src="https://github.com/beyzaaydemir/BootCamp3_Layout_Design/blob/master/PremiumActivity.png"  width="250" height="500">
+    <img src="https://github.com/beyzaaydemir/BootCamp3_Layout_Design/blob/master/PremiumActivity.png" >
     
   </td>
 
